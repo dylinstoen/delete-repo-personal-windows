@@ -1,4 +1,4 @@
-Taken from [Script to delete repos by Josh-ops](https://josh-ops.com/posts/github-script-to-delete-repos/) but slightly edited for non-org users
+Taken from [Script to delete repos by Josh-ops](https://josh-ops.com/posts/github-script-to-delete-repos/) but slightly edited for non-org windows users
 1. check if u have git cli installed by running `gh` in command terminal
       - if not install gh cli here [git cli](https://cli.github.com/)
       - then authorize gh cli by running `gh auth login` in command terminal
